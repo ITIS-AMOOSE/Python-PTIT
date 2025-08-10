@@ -1,0 +1,1 @@
+{"name":"Local: PY01002 - Phep cong","url":"d:\\Code\\PTIT PYTHON\\PY01002 - Phep cong.py","tests":[{"id":1751342038042,"input":"1 + 2 = 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\PTIT PYTHON\\PY01002 - Phep cong.py","group":"local","local":true}

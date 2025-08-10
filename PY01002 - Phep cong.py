@@ -1,0 +1,8 @@
+s = input()
+
+a = list(s)
+
+if(int(a[0]) + int(a[4]) == int(a[-1])):
+    print("YES")
+else:
+    print("NO")
